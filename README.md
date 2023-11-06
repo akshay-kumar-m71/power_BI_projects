@@ -1,4 +1,9 @@
+
+
 Welcome to the comprehensive post-match analysis of the thrilling India vs Pakistan encounter in the ICC World Cup 2023 ODI! This repository houses a detailed data analysis file crafted with Power BI, where every aspect of the match is dissected for a deeper understanding of the game.
+
+
+
 
 ![Screenshot 2023-10-28 020443](https://github.com/akshay-kumar-m71/power_BI_projects/assets/72317690/d942ec9b-217f-4425-831c-05a2c7c44cf2)
 
